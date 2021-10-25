@@ -12,25 +12,18 @@ public class ToDoHomeController {
 
     @FXML
     private MenuItem EditListButton;
-
     @FXML
     private MenuItem RemoveListButton;
-
     @FXML
     private MenuItem ShowListButton;
-
     @FXML
     private Button addListButton;
-
     @FXML
     private ListView<?> list;
-
     @FXML
     private ContextMenu listContextMenu;
-
     @FXML
     private Button loadListButton;
-
     @FXML
     private Button saveListButton;
 
